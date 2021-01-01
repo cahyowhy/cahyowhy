@@ -11,4 +11,10 @@ Working as Frontend developer since 2016. Yet also working on Backend side and M
 
 💕 Working with `Vue`, `Flutter`, `Javascript`, `Dart` and `Typescript` as a main language. I also Prefer to make simple and readable code and easy to colaborate.
 
-📝 [Resume](https://drive.google.com/file/d/1Q5sSuOOlCmCPX8yXxGAiQfq0-oK71og8/view?usp=sharing);
+### About me
+
+- 🏦 `Full Stack Developer` at [Sociolla](https://sociolla.com)
+- 📝 [Resume](https://drive.google.com/file/d/1Q5sSuOOlCmCPX8yXxGAiQfq0-oK71og8/view?usp=sharing)
+
+### Skils
+<img align="left" alt="Skils" width="500px" src="./assets/images/capture.png" />
