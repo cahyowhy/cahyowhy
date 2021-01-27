@@ -1,7 +1,7 @@
 ## Hallo
 
-<a href="https://www.linkedin.com/in/adepanges">
-  <img align="left" alt="Ade's LinkedIN" width="22px" src="https://raw.githubusercontent.com/adepanges/adepanges/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/cahyo-wibowo-5b7159143">
+  <img align="left" alt="Cahyo LinkedIN" width="22px" src="https://raw.githubusercontent.com/adepanges/adepanges/master/assets/linkedin.svg" />
 </a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=cahyowhy.cahyowhy)
@@ -10,11 +10,6 @@
 Working as Frontend developer since 2016. Yet also working on Backend side and Mobile dev.
 
 💕 Working with `Vue`, `Flutter`, `Javascript`, `Dart` and `Typescript` as a main language. I also Prefer to make simple and readable code and easy to colaborate.
-
-### About me
-
-- 🏦 `Full Stack Developer` at [Sociolla](https://sociolla.com)
-- 📝 [Resume](https://drive.google.com/file/d/1Q5sSuOOlCmCPX8yXxGAiQfq0-oK71og8/view?usp=sharing)
 
 ### Skils
 <img align="left" alt="Skils" width="500px" src="./assets/images/capture.png" />
